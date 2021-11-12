@@ -2,8 +2,8 @@
 #'
 #'Esta função serve para subtrair dois numeros
 #'
-#'@param a
-#'@param b
+#'@param a número(inteiro ou real)
+#'@param b número(inteiro ou real)
 #'
 #'@exemples
 #' subtrair(3,2)
