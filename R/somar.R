@@ -2,8 +2,8 @@
 #'
 #'Esta função serve para somar dois numeros
 #'
-#'@param a
-#'@param b
+#'@param a número(inteiro ou real)
+#'@param b número(inteiro ou real)
 #'
 #'@exemples
 #' somar(2,3)
